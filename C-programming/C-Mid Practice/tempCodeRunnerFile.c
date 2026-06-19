@@ -1,0 +1,1 @@
+printf("\n\nSum now is: %d", sum2);
